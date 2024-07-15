@@ -1,5 +1,11 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, Worlddd!");
-    }
+String name= "GodisgoodallthetimeallthetimeGodisgood!";
+
+for(int i=name.length()-1;i>=0;i--){
+
+        System.out.println(name.charAt(i));
+    
+}
+}
 }
