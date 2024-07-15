@@ -2,6 +2,10 @@ public class Vehicle {
   private  String make;
    private String model;
    private double price;
+    @Override
+public String toString() {
+    return "Vehicle [make=" + make + ", model=" + model + ", price=" + price;
+}
     public String getMake() {
         return make;
     }

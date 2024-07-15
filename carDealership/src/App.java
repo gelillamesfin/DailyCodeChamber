@@ -8,11 +8,10 @@ public class App {
         Vehicle vehicle = new Vehicle();
         vehicle.setMake("Honda");
         vehicle.setModel("Accord");
-        vehicle.setPrice(100000);
+        vehicle.setPrice(10000);
 
         Employee emp = new Employee();
         cust1.purchaseCar(vehicle, emp, false);
-        cust1.toString();
-
+       
     }
 }
