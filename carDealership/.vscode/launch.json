@@ -2,17 +2,10 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Evens",
-      "request": "launch",
-      "mainClass": "Evens",
-      "projectName": "App.java_eb2b4f98"
-    },
-    {
-      "type": "java",
       "name": "App",
       "request": "launch",
       "mainClass": "App",
-      "projectName": "App.java_eb2b4f98"
+      "projectName": "carDealership_a30132c0"
     },
     {
       "type": "node",
