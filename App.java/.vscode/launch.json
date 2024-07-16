@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CalProgram",
+      "request": "launch",
+      "mainClass": "CalProgram",
+      "projectName": "App.java_eb2b4f98"
+    },
+    {
+      "type": "java",
       "name": "Evens",
       "request": "launch",
       "mainClass": "Evens",
