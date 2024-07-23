@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "lesson5.App",
+      "projectName": "carDealership_a30132c0"
+    },
+    {
+      "type": "java",
       "name": "app",
       "request": "launch",
       "mainClass": "lesson4.app",
