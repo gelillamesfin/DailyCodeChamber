@@ -11,5 +11,4 @@ return (x)=>{
     return funcs.reduceRight(fn,x);
 }
 }
- e([x=>x+1,x=>x*x,x=>2*x]) 
  
