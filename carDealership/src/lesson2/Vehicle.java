@@ -1,3 +1,4 @@
+package lesson2;
 public class Vehicle {
   private  String make;
    private String model;

@@ -1,3 +1,4 @@
+package lesson2;
 public class Customer {
 private String name;
 public String getName() {

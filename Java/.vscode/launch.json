@@ -2,24 +2,10 @@
   "configurations": [
     {
       "type": "java",
-      "name": "app",
-      "request": "launch",
-      "mainClass": "lesson4.app",
-      "projectName": "carDealership_a30132c0"
-    },
-    {
-      "type": "java",
-      "name": "App",
-      "request": "launch",
-      "mainClass": "lesson3.App",
-      "projectName": "carDealership_a30132c0"
-    },
-    {
-      "type": "java",
       "name": "App",
       "request": "launch",
       "mainClass": "App",
-      "projectName": "carDealership_a30132c0"
+      "projectName": "Java_7266b06b"
     },
     {
       "type": "node",
