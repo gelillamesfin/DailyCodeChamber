@@ -9,7 +9,11 @@ public class MaxAggregator extends Aggregator{
 		this.numbers = new ArrayList<Double>();
 	}
 
-	@Override
+	public MaxAggregator() {
+        //TODO Auto-generated constructor stub
+    }
+
+    @Override
 	public double calculate() {
 		double max = numbers.get(0);
 		for(Double number : numbers){
