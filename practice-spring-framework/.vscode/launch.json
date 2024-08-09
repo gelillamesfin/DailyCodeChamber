@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "App02HelloSpring",
+      "request": "launch",
+      "mainClass": "com.meInJava.practice_spring_framework.App02HelloSpring",
+      "projectName": "practice-spring-framework"
+    },
+    {
+      "type": "java",
       "name": "App01GamingBasicJava",
       "request": "launch",
       "mainClass": "com.meInJava.practice_spring_framework.App01GamingBasicJava",
