@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App01GamingBasicJava",
+      "request": "launch",
+      "mainClass": "com.meInJava.practice_spring_framework.App01GamingBasicJava",
+      "projectName": "practice-spring-framework"
+    },
+    {
+      "type": "java",
+      "name": "AppGamingBasicJava",
+      "request": "launch",
+      "mainClass": "com.meInJava.practice_spring_framework.AppGamingBasicJava",
+      "projectName": "practice-spring-framework"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "415 ts-node debug Launch Program",
+      "runtimeArgs": ["-r", "ts-node/register", "--loader", "ts-node/esm"],
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${file}",
+      "outFiles": ["${workspaceFolder}/**/*.js"],
+      "sourceMaps": true,
+      "resolveSourceMapLocations": [
+        "${workspaceFolder}/**",
+        "!**/node_modules/**"
+      ]
+    }
+  ]
+}
